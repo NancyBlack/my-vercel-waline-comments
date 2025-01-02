@@ -20,7 +20,7 @@
       "cors": {
         "allowMethods": ["GET", "POST", "OPTIONS"],
         "allowHeaders": ["Content-Type", "Authorization"],
-        "allowOrigins": "*"
+        "allowOrigins": "https://nancyblack.github.io/"
       }
     }
   }
